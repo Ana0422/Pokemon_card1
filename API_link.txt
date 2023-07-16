@@ -1,0 +1,3 @@
+# Link of API used in this pokemon card 
+https://pokeapi.co/docs/v2.
+
